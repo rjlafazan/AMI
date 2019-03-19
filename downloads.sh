@@ -3,7 +3,7 @@
 
 ### Install virtual box yes or no
 while true; do
-    read -p "Do you have virtual box already?" yn
+    read -p "Do you have virtual box already? " yn
     case $yn in
         [Yy]* ) break;;
         [Nn]* ) brew cask install virtualbox;;

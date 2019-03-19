@@ -1,5 +1,9 @@
 # AMI Virtual Machine Setup
 
+### Amazon Directions
+
+https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/amazon-linux-2-virtual-machine.html#amazon-linux-2-virtual-machine-prepare
+
 ### Download Resources from Amazon
 
 Run the `downloads.sh` shell script or download resources manually.
